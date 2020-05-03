@@ -1,3 +1,4 @@
+感谢https://github.com/AlbertShen0211/Android-architecture-components分享的优秀代码。
 # Android Jetpack 最佳开发姿势
 在Android架构组件基础上，融入Kotlin 协程+retrofit，模拟网络，全面快速开发。
 ## Navigation
