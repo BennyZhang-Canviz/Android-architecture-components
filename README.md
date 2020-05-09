@@ -1,3 +1,4 @@
+该示例集成了view model,room,  live data, okhttp等一系列组件，是学习Jetpakc的优秀源代码
 感谢https://github.com/AlbertShen0211/Android-architecture-components分享的优秀代码。
 另外可以参考安卓官方示例： https://github.com/android/sunflower
 
